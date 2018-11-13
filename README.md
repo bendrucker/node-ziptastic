@@ -1,4 +1,4 @@
-# Ziptastic [![Build Status](https://travis-ci.org/bendrucker/node-ziptastic.png?branch=master)](https://travis-ci.org/bendrucker/node-ziptastic) [![NPM version](https://badge.fury.io/js/ziptastic.png)](http://badge.fury.io/js/ziptastic)
+# Ziptastic [![Build Status](https://travis-ci.org/bendrucker/node-ziptastic.png?branch=master)](https://travis-ci.org/bendrucker/node-ziptastic) [![NPM version](https://badge.fury.io/js/ziptastic.png)](http://badge.fury.io/js/ziptastic) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/node-ziptastic.svg)](https://greenkeeper.io/)
 
 Use the [Ziptastic](http://daspecster.github.io/ziptastic/) API to retrieve city and state information from a zip code.
 
